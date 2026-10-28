@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SearchKings is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://searchkings.com/
+SearchKings provides AI‑enhanced Google Ads and digital marketing services for small and mid‑size businesses. Leveraging proprietary call‑intelligence and ChatGPT‑driven ad creation, they help clients generate leads, manage campaigns, and optimise spend across Google Ads, local services ads, eCommerce, and social platforms. Over 5,000 customers trust SearchKings for month‑to‑month, flat‑fee marketing solutions, with a $500 Google Ads credit for new sign‑ups and a focus on transparent reporting and AI‑powered performance.
+
+**Areas:** Company · Marketing · Advertising · AI · LeadGeneration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://searchkings.com/)
+- [Terms of service](https://searchkings.com/terms-conditions)
+- [Privacy policy](https://searchkings.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/searchkings/](https://apis.io/providers/searchkings/).
